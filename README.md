@@ -60,6 +60,30 @@ Open your browser and go to:
 http://localhost:8080
 
 The number guessing game interface should load.
+How to Use the Program
+
+The homepage will display a number input field.
+
+Enter any number between 1 and 100.
+
+Click Submit Guess.
+
+The system will respond with one of the following:
+
+Too Low
+
+Too High
+
+Correct
+
+If the guess is correct:
+
+A new random number is automatically generated.
+
+Click Play Again to restart.
+
+The game continues until the user stops the server.
+
 
 
 

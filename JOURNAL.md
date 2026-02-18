@@ -1,4 +1,4 @@
-This section documents how generative AI was used to support learning and development of the project.
+This section documents how generative AI was used to support learning and development of my project.
 
 Prompt 1
 
